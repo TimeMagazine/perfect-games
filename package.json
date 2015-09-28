@@ -1,0 +1,27 @@
+{
+  "name": "perfect-games",
+  "version": "0.0.0",
+  "description": "## Step 1",
+  "main": "crunch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimeMagazine/perfect-games.git"
+  },
+  "keywords": [
+    "baseball"
+  ],
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimeMagazine/perfect-games/issues"
+  },
+  "homepage": "https://github.com/TimeMagazine/perfect-games#readme",
+  "dependencies": {
+    "fs-walk": "0.0.1",
+    "line-by-line": "^0.1.4",
+    "minimist": "^1.2.0"
+  }
+}
